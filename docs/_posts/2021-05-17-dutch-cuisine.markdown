@@ -6,4 +6,4 @@ date:   2021-05-17 23:50:06 +0200
 
 *test image upload*
 
-![Dutch cuisine](assets/img/dutch-cuisine.jpeg)
+![Dutch cuisine]({{ site.url }}/assets/img/dutch-cuisine.jpeg)
