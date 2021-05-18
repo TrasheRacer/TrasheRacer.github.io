@@ -57,4 +57,3 @@ I find it more likely that we each beat an individual retreat into an opaque tan
 I see our societies fragment and splinter, to precipitate anew around conspiracy theories and fake news. Masses of people only a little more difficult to manage than well-fed & trusting cattle.
 
 Only time will tell.  
-What an exciting time to be alive!
