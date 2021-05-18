@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning to Die: 1"
+title:  "Learning to Die 1"
 date:   2021-05-15 10:33:20 +0200
 ---
 
