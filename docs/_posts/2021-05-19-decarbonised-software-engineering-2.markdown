@@ -4,7 +4,7 @@ title:  "Decarbonised Software Engineering 2"
 date:   2021-05-19 08:33:51 +0200
 ---
 
-Read [part 1](_posts/2021-05-16-decarbonised-software-engineering.markdown) first.
+Read [part 1]({{ site.url }}/_posts/2021-05-16-decarbonised-software-engineering.markdown) first.
 
 ### Even winning feels like losing
 
