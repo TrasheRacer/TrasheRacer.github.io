@@ -4,7 +4,7 @@ title:  "Paleo Software Engineering 2"
 date:   2021-05-19 08:33:51 +0200
 ---
 
-Read [Paleo Software Engineering 1]({{ site.url }}/2021/05/16/decarbonised-software-engineering.html) first.
+Read [Paleo Software Engineering part 1]({{ site.url }}/2021/05/16/decarbonised-software-engineering.html) first.
 
 ### Even winning feels like losing
 
