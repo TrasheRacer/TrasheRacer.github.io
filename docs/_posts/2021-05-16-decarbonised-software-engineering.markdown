@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decarbonised software engineering"
+title:  "Decarbonised Software Engineering"
 date:   2021-05-16 22:34:40 +0200
 ---
 
