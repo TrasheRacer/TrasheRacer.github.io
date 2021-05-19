@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decarbonised Software Engineering"
+title:  "Paleo Software Engineering"
 date:   2021-05-16 22:34:40 +0200
 ---
 
@@ -26,5 +26,4 @@ Climate change affects all aspects of our lives in ever more significant and unp
 In the interest of doing our best job as proffessionals, we should consider it's impending impact upon our field.
 We must start to view the generation of energy via carbon combustion as the unaffordably destructive toxic excess it is, and design software accordingly. 
 
-
-**To be continued**
+Read [Paleo Software Engineering 2]({{ site.url }}/2021/05/19/decarbonised-software-engineering-2.html) first.
