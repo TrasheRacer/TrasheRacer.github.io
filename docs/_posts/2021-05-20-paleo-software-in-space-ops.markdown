@@ -6,6 +6,17 @@ date:   2021-05-20 16:13:34 +0200
 
 # Paleo Software Engineering, or: adapting to the Climate Reality at in Space Operations
 
+## Sources
+
+Based on the the Summary for Policymakers of the IPCC Special Report: Global Warming of 1.5°C (October 2018)
+https://www.ipcc.ch/report/sr15/
+
+Chief of US Pacific forces calls climate biggest worry:
+https://www.bostonglobe.com/news/nation/2013/03/09/admiral-samuel-locklear-commander-pacific-forces-warns-that-climate-change-top-threat/BHdPVCLrWEMxRe9IXJZcHL/story.html
+
+Climate change as a national security challenge:
+https://obamawhitehouse.archives.gov/the-press-office/2013/04/24/remarks-tom-donilon-national-security-advisor-president-launch-columbia-
+
 ## Abstract
 
 ### Climate change is a hard collective action problem with no easy technological fix.
@@ -52,3 +63,4 @@ Could there be a better way to stimulate progress on a deeply challenging and ex
 Nobody is coming to save us but us.
   
 ### Doing so will allow us to harness our collective awareness into building the future: the discipline of Decarbonised (Software) Engineering.
+
