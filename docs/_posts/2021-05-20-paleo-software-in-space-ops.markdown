@@ -8,14 +8,12 @@ date:   2021-05-20 16:13:34 +0200
 
 ## Sources
 
-Based on the the Summary for Policymakers of the IPCC Special Report: Global Warming of 1.5°C (October 2018)
-https://www.ipcc.ch/report/sr15/
+Based on the the Summary for Policymakers of the IPCC Special Report: Global Warming of 1.5°C (October 2018)  
+[link](https://www.ipcc.ch/report/sr15/)
 
-Chief of US Pacific forces calls climate biggest worry:
-https://www.bostonglobe.com/news/nation/2013/03/09/admiral-samuel-locklear-commander-pacific-forces-warns-that-climate-change-top-threat/BHdPVCLrWEMxRe9IXJZcHL/story.html
+Chief of US Pacific forces calls climate biggest worry: [link](https://www.bostonglobe.com/news/nation/2013/03/09/admiral-samuel-locklear-commander-pacific-forces-warns-that-climate-change-top-threat/BHdPVCLrWEMxRe9IXJZcHL/story.html)
 
-Climate change as a national security challenge:
-https://obamawhitehouse.archives.gov/the-press-office/2013/04/24/remarks-tom-donilon-national-security-advisor-president-launch-columbia-
+Climate change as a national security challenge: [link](https://obamawhitehouse.archives.gov/the-press-office/2013/04/24/remarks-tom-donilon-national-security-advisor-president-launch-columbia-)
 
 ## Abstract
 
