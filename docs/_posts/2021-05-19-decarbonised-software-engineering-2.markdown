@@ -35,7 +35,8 @@ Two approaches spring to mind, depending on what exactly we take **engineering**
 
 #### The technocratic fix
 
-Engineering is a means of solving business problems to generate profit. 
+> **Engineering** is a means of solving business problems to generate profit. 
+
 Therefore we are looking to maintain our existing economic system under new conditions.
 Power for our data centres is expensive or unavailable? Fine, just pass this on to the consumer.
 Tech giants simply charge more via ad-tech to cover the rising cost of electricity, 
@@ -48,7 +49,8 @@ while our *consumption* of computing power doubles every year. We're still fucke
 
 #### The social fix
 
-Engineering is a discipline concerned with the creation and reproduction of socio-political power structures.
+> **Engineering** is a discipline concerned with the creation and reproduction of socio-political power structures.
+
 We know that software has economic power from it's ubiquity.
 We know that it must have psychological power - just look at anyone chasing the digital dragon, scrolling endlessly through instagram .
 We see that the problem lies in the way technology is used, the way that people interact with power both political and literal.
