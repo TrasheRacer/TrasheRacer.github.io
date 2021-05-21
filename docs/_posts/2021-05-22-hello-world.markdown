@@ -10,7 +10,7 @@ This is my blog.
 
 The addresses of devices belonging to my family have been blacklisted:
 my sister and my wife are unable to see this website.
-This is a place to express my private thoughts.
+This is a place to explore my private thoughts.
 
 I'm so sick of this fucking pandemic.
 
