@@ -4,14 +4,14 @@ title:  "Paleo Software Engineering 2"
 date:   2021-05-19 08:33:51 +0200
 ---
 
-Read [Paleo Software Engineering part 1]({{ site.url }}/2021/05/16/decarbonised-software-engineering.html) first.
+Read the first part [here]({{ site.url }}/2021/05/16/decarbonised-software-engineering.html).
 
 ### Even winning feels like losing
 
 Lets consider the following scenario:
 
-Following massive popular revolution, hydrocarbon-based capitalism is wiped out overnight. 
-The EU transitions immediately to a renewable-based energy economy. 
+Following massive popular revolution, hydrocarbon-based capitalism is wiped out overnight.
+The EU transitions immediately to a renewable-based energy economy.
 What happens to the rest of the economy - and specifically the underlying software?
 
 The vast majority of existant software is designed with the underlying assumption that our power grid is always-available and high-load.
@@ -20,31 +20,31 @@ This infrastructure which handles almost all online interaction from your twitte
 would be simply unable to continue existing in the post-hydrocarbon economy:
 
 The most popular renewable energy sources (wind & solar) have pretty serious limitations: unreliability & low power density.
-In adverse weather conditions they simply don't function, 
+In adverse weather conditions they simply don't function,
 and far more physical power sources are required compared to fossil-fuel/nuclear power.
 These issues may be *mitigated* by having a well-connected grid spanning a large geographical area as well as accurate weather prediction,
 to minimise the impact of local conditions upon power output.
-However, accurate weather prediction is an early casualty of the climate crisis, and technological solutions to even-out grid usage 
+However, accurate weather prediction is an early casualty of the climate crisis, and technological solutions to even-out grid usage
 are beset by their own problems:
  - massive batteries to store renewable-generated energy are expensive and come with their own hefty carbon price-tag
  - nuclear (fission) power generation has insufficient uptake as well as it's own considerable political and technical problems
 
 The world we have constructed around commodified data is simply incompatible with our post-hydrocarbon future.
-This seems like a pretty serious problem; as software engineers, what are we to do? 
+This seems like a pretty serious problem; as software engineers, what are we to do?
 Two approaches spring to mind, depending on what exactly we take **engineering** to mean.
 
 #### The technocratic fix
 
-> **Engineering** is a means of solving business problems to generate profit. 
+> **Engineering** is a means of solving business problems to generate profit.
 
 Therefore we are looking to maintain our existing economic system under new conditions.
 Power for our data centres is expensive or unavailable? Fine, just pass this on to the consumer.
-Tech giants simply charge more via ad-tech to cover the rising cost of electricity, 
+Tech giants simply charge more via ad-tech to cover the rising cost of electricity,
 and use political pressure to ensure priority access when electricity is unavailable.
 We software engineers adapt the code used in servers (data centres) and clients (laptops, mobile phones)
 and infrastructure (routers) to minimise power load, making efficiency gains through clever use of compression and caching.
 
-In this scenario, Moore's law continues unabated: the computing power of a chip doubles every two years, 
+In this scenario, Moore's law continues unabated: the computing power of a chip doubles every two years,
 while our *consumption* of computing power doubles every year. We're still fucked.
 
 #### The social fix

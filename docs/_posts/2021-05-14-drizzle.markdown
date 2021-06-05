@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "Drizzle"
-date:   2021-05-14 10:48:37 +0200
+title: "Drizzle"
+date: 2021-05-14 10:48:37 +0200
 ---
 
-Woke up at 7AM, drank 2 cups of tea and stayed in bed until around 10AM listening to BBC radio.  
-The weather is grim: grey clouds stretch in every direction. Chilly rain. Little sun forecast this weekend.  
+Up at 7, 2 cups of tea, stayed in bed too long just listening to radio.
+Weather is grim: grey clouds stretch in every direction. Chilly rain. Dark weekend.
 
-After the bank holiday yesterday my required hours for the week are complete, but I have little to show for it.  
-I haven't been able to finish the UX changes in the model tree view which would allow creation of a new parameter via a project patch.  
-Paralysed and useless, I am the spastic appendix of mission planning at the ESA.
-I'll get my German vocabulary for the day memorised first, to make myself feel good; at least *this* vestigial organ wants to make something of itself.
-Afterwards I will work top-to-bottom through my TODO list for the UX changes.
-Baby steps to avoid a complete standstil.
+After the bank holiday my weekly hours are all done but I got fuck all to show for it.
+UX changes needed for project param mutations are still unfinished.
+I feel paralytic and useless like a spastic appendix.
 
-* Depression: 2 /10
-* Sleep: enough
-* Sober: for now
+Still, I'll get my German vocab memorized, start turning this day around.
+At least _this_ vestigial organ wants to make something of itself.
+Then start chipping away at the old TODO list.
+Baby steps tottering away from a total standstill.
+
+- Sad: 2/10
+- Sleep: sufficient
+- Sober: reluctantly
