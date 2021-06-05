@@ -2,8 +2,10 @@
 
 ## TODO
 
-- Add metrics/comments
+- Post: 'On Honesty'
+- Create metrics
 - Do publicity
+- Add comment function
 
 ## Welcome to GitHub Pages
 
