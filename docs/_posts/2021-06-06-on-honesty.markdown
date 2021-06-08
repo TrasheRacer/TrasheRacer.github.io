@@ -17,9 +17,11 @@ I count myself lucky for the many deep and genuine relationships based on this d
 each one a spark of joy making my life truly worth living.
 
 All the same, I've been re-appraising this idea from a more pragmatic standpoint.
-Within interpersonal relationships, trust might certainly be **gold**
+Within interpersonal relationships, trust might as well be **gold**
 but perhaps honesty is much more like **currency** - certainly valuable, but only in an extrinsic sense,
-based on it's utility as a medium of exchange. Let me try to explain.
+based on it's utility as a medium of exchange - it's ability to get you **what you want**.
+
+Let me see if I can explain...
 
 ![diagram-of-needs]({{ site.url }}/assets/img/pyramid-of-needs.png)
 
@@ -61,8 +63,6 @@ The fulfillment of our physical, social and intellectual needs boils down to two
 We each seek to understand ourselves, our social groups and the world around us.
 We also attempt to _change_ these things, re-shaping the universe to better meet to our desires.
 
-**activate asshole mode**
-
 Unless you happen to be born as royalty or otherwise land on your ass into a paddling pool of wealth/power,
 your only hope of really shaping your lived experience to your will is dependent upon your ability to influence other people.
 
@@ -86,11 +86,11 @@ Like any skill, ability to convincingly lie is something which is developed thro
 On the other hand, a reputation for honesty is developed through _either_ practice being honest _or_ practice successfully lying.
 Honesty alone does not develop your ability to play the game.
 
-**out of steam, fuck**
+**out of steam, fuck - come back to this another day**
 
 ### TODO
 
-Finish off this essay:
+Finish off this post:
 
 - make a case for 'honesty as a policy' only as a means to an end, i.e. understanding & reshaping existance
 - honesty is most effective _in combination with_ 'tactical dishonesty' i.e. telling lies _only_ when it's useful
