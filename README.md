@@ -1,10 +1,11 @@
 # Blog
 
+Values undefended aren't values at all.
+
 ## TODO
 
-- Post: 'On Honesty'
 - Create metrics
-- Do publicity
+- Publicity?
 - Add comment function
 
 ## Welcome to GitHub Pages
