@@ -4,52 +4,80 @@ title: "Gunpowder plot"
 date: 2021-06-08 15:46:30 +0200
 ---
 
-need an opinion from you guys - how does the following work as a science-fiction plotline?
+need an opinion from you guys - how does this work as a science-fiction plotline?
 
 ## notes
 
-* if any kind of 'magical technological advance' is needed by the plot just invent a result via advancing AI
+* if any kind of 'magical technological advance' is needed by the plot just invent a result via advancing AI (artificial intelligence)
+  - AKA neural networks
+  - AKA machine learning
 * this is quite a rough draft - a lot of the final detail to still work out
 
 ## assumptions
 
-I know it sucks, but sorry, please - just imagine that there was no possible vaccine for Covid 19.
+i know it sucks, but sorry, please
+just imagine no vaccine for Covid 19
 
-#### trapped indoors and socially isolated many people become heavily invested in virtual reality (VR) tech
-- becomes, cheaper more widely available & more actively developed (for)
+#### with economic activity severly curtailed anyway, European governments are finally forced to deal with the climate crisis
+
+- a monetary standard for the Euro is devised, based on sequestered carbon (i.e. carbon captured or otherwise stored safely away)
+- EU members' carbon stores (i.e. mines, gasfields, forests) are locked up and guarded in the (inter)national interest
+- carbon is rationed according to need on a weekly basis to EU citizens - aliens & migrants however are not included
+  * maybe people excluded from the carbon ration are forced to participate in the market? maybe they crowdfund themselves? ...
+- all products are valued both in Euros and also in a (fixed) carbon price-tag, to be paid using freely-tradable carbon rations
+- as a result, carbon emissions are immediately and dramtically curtailed, and the model becomes adopted by other states
+
+#### trapped indoors and socially isolated, many people become heavily invested in virtual reality (VR) tech
+
+- becomes cheaper, more widely available & more actively developed (as media and as a platform)
 - VR takes over as the dominant medium of for social interaction
+- explore what it would be like to have an virtual-reality house-party during a neverending lockdown:
+  * if you cheat on your partner in virtual - do you cheat in real life?
+  * what the fuck is it like to do drugs at a virtual party!?
 
-#### government corporate & religious actors scramble to exploit this emerging ability, as propaganda and as a weapon:
+#### government corporate & religious actors scramble to exploit this emerging ability, as propaganda and as a weapon
+
+The ad-tech industry develops a clever means of making money from VR participants.
+Participating platforms incorporate imperceptible audio-visual distortions to the perceived experience.
+Based on developments in behavioural psychology & AI, these subtly influence consumer behaviour in-line with marketing goals.
+
+Also:
 - isis hackers perform mock executions over the internet on israeli soldiers during simulated training
-- AIs begin to create deep-fake people for use in widely consunmed virtual pornography 
+- AIs begin to create deep-fake people for use in widely consunmed virtual entertainment, including pornography
 - ...
 - add enough 'dark dark dark' content as necessary, to engage the reader's appetite for violence
 
-#### AI-enabled advances in medecine explore the use of VR as a therapy for trauma victims
+#### medical research explores the use of VR as a therapy for trauma victims
+
 - machines are developed which allow for effective computerised reprogramming-by-computer of patients by doctors
 - developed in high-tech research labs & produced in the name of the public, under a deep veil of secrecy
-- basically, a lazy analogy the the 'the wuhan institute of virology developed covid' plague-explanation
+- basically, this is a lazy analogy the the 'the wuhan institute of virology developed covid' plague-explanation
 
 #### somehow, through malice or idiocy, this reprogramming-software ends up 'in the wild'
-- publicly available in code repositories like  GitHub
+
+- publicly available in code repositories like  GitHub where it can be used (and copied) by anyone with internet access
 - quickly ends up in the hands of tech giants & terror cells, coders & anarchists, parents, wives & husbands
 
-#### shortly afterwards, an anonymous writer publishes a 'VR novella' named GUNPOWDER on Amazon 
+#### shortly afterwards, somebody anyonymous releases a 'VR novel' named *** (think of something good) on Amazon Virtual Marketplace
+
 - consumers discover that each single experience of the novel is uniquely individual to them
+  * the experience is always realistic, first-person and ends with death
+  * the length of time varies wildly, as do the people and surroundings
 - as fans remain unable to discover any pattern through repeated 'readings', some become fanatically obsessed
-- a cult of weirdos, misfits and maladaptives all around the world form a cult based on 'solving the plot'
+  * constant exposure to their own 'death' starts to have unusual psychological effects, not dis-similar to religious conversion
+- within this group, a cult of weirdos, misfits and maladaptives all around the world form a cult based on 'solving the plot'
 - that is - they believe there's some dark conspiracy underfoot which can only be resolved by 'following the clues'
 
 Baby, you got yourself a cult going! Basically not too far away from the Q-anon or the Querdenker movements.
 What happens when certain obsessives 'binge-read' the VR-novella - are they being reprogrammed? If so, why?
 Is the content from the VR experience generated by inscrutible algorithms? Or could it be the work of a prophet,
 some strange and holy window into another world somewhere beyond this one?
-I feel like there's interesting possibilities to explore. It's a nice though experiment:
+I feel like there's interesting possibilities to explore. It's a nice thought experiment:
 what would the world be like if there were software to effortlessly program somebody?
 Basically, the question is:
 How to program a person?
 
-Anyway, that's the essential backstory, hope none of it is too farfetched apart from obviously the vaccine thing.
+Anyway, that's the essential backstory, hope it's not too far-fetched (besides the vaccine!)
 Let me know what you think in the comments below, and don't forget to like rate and subscribe!
 Cheers doggs!
 
