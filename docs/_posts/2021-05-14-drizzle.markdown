@@ -4,18 +4,25 @@ title: "Drizzle"
 date: 2021-05-14 10:48:37 +0200
 ---
 
-Up at 7, 2 cups of tea, stayed in bed too long just listening to radio.
-Weather is grim: grey clouds stretch in every direction. Chilly rain. Dark weekend.
+Up at 7.
 
-After the bank holiday my weekly hours are all done but I got fuck all to show for it.
-UX changes needed for project param mutations are still unfinished.
-I feel paralytic and useless like a spastic appendix.
+Two cups of tea.
+Stayed in bed too long listening to news radio.
+Weather grim: grey clouds every direction.
+Chilly rain. Dark weekend.
 
-Still, I'll get my German vocab memorized, start turning this day around.
-At least _this_ vestigial organ wants to make something of itself.
-Then start chipping away at the old TODO list.
-Baby steps tottering away from a total standstill.
+All my weekly hours done (incl. bank hols) but got fuck-all to show for it.
+UX changes needed still unfinished.
+Paralytic. Useless like a spastic appendix.
+
+Still.
+I'll do my German vocab - flashcards.
+Better start to turn this day around.
+This vestigial organ wants to be great one day.
+
+Chipping at TODO list.
+Baby steps tottering away from standstill.
 
 - Sad: 2/10
-- Sleep: sufficient
-- Sober: reluctantly
+- Sleep: enough
+- Sober: OK
