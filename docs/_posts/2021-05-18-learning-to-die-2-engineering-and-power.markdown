@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning to Die 2: Engineering & Power"
+title:  "Learning to Die, Part 2"
 date:   2021-05-18 09:25 +0200
 ---
 

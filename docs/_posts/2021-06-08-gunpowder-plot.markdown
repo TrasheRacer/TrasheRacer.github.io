@@ -1,29 +1,31 @@
 ---
 layout: post
-title: "Gunpowder plot"
+title: "Fiction"
 date: 2021-06-08 15:46:30 +0200
 ---
 
-need an opinion from you guys - how does this work as a science-fiction plotline?
+So here's an idea for the plot to a story.
 
 ## notes
 
-* if any kind of 'magical technological advance' is needed by the plot just invent a result via advancing AI (artificial intelligence)
+- if any kind of 'magical technological advance' is needed by the plot just invent a result via advancing AI (artificial intelligence)
   - AKA neural networks
   - AKA machine learning
-* this is quite a rough draft - a lot of the final detail to still work out
+- this is a work in progress - lots still to work out
+- i'll call this 'speculative fiction' rather than 'science fiction' because science is for fucking nerds
 
 ## assumptions
 
-i know it sucks, but sorry, please
-just imagine no vaccine for Covid 19
+I know it sucks, but sorry, please
+
+Just imagine no vaccine for Covid 19
 
 #### with economic activity severly curtailed anyway, European governments are finally forced to deal with the climate crisis
 
 - a monetary standard for the Euro is devised, based on sequestered carbon (i.e. carbon captured or otherwise stored safely away)
 - EU members' carbon stores (i.e. mines, gasfields, forests) are locked up and guarded in the (inter)national interest
 - carbon is rationed according to need on a weekly basis to EU citizens - aliens & migrants however are not included
-  * maybe people excluded from the carbon ration are forced to participate in the market? maybe they crowdfund themselves? ...
+  - maybe people excluded from the carbon ration are forced to participate in the market? maybe they crowdfund themselves? ...
 - all products are valued both in Euros and also in a (fixed) carbon price-tag, to be paid using freely-tradable carbon rations
 - as a result, carbon emissions are immediately and dramtically curtailed, and the model becomes adopted by other states
 
@@ -32,8 +34,8 @@ just imagine no vaccine for Covid 19
 - becomes cheaper, more widely available & more actively developed (as media and as a platform)
 - VR takes over as the dominant medium of for social interaction
 - explore what it would be like to have an virtual-reality house-party during a neverending lockdown:
-  * if you cheat on your partner in virtual - do you cheat in real life?
-  * what the fuck is it like to do drugs at a virtual party!?
+  - if you cheat on your partner in virtual - do you cheat in real life?
+  - what the fuck is it like to do drugs at a virtual party!?
 
 #### government corporate & religious actors scramble to exploit this emerging ability, as propaganda and as a weapon
 
@@ -42,6 +44,7 @@ Participating platforms incorporate imperceptible audio-visual distortions to th
 Based on developments in behavioural psychology & AI, these subtly influence consumer behaviour in-line with marketing goals.
 
 Also:
+
 - isis hackers perform mock executions over the internet on israeli soldiers during simulated training
 - AIs begin to create deep-fake people for use in widely consunmed virtual entertainment, including pornography
 - ...
@@ -55,21 +58,21 @@ Also:
 
 #### somehow, through malice or idiocy, this reprogramming-software ends up 'in the wild'
 
-- publicly available in code repositories like  GitHub where it can be used (and copied) by anyone with internet access
+- publicly available in code repositories like GitHub where it can be used (and copied) by anyone with internet access
 - quickly ends up in the hands of tech giants & terror cells, coders & anarchists, parents, wives & husbands
 
-#### shortly afterwards, somebody anyonymous releases a 'VR novel' named *** (think of something good) on Amazon Virtual Marketplace
+#### shortly afterwards, somebody anyonymous releases online a new virtual reality game named \*\*\* (think of something good)
 
-- consumers discover that each single experience of the novel is uniquely individual to them
-  * the experience is always realistic, first-person and ends with death
-  * the length of time varies wildly, as do the people and surroundings
+- consumers discover that each single experience of the game is uniquely individual to them
+  - the experience is always realistic, first-person and ends with death
+  - the length of time varies wildly, as do the people and surroundings
 - as fans remain unable to discover any pattern through repeated 'readings', some become fanatically obsessed
-  * constant exposure to their own 'death' starts to have unusual psychological effects, not dis-similar to religious conversion
+  - constant exposure to their own 'death' starts to have unusual psychological effects, not dis-similar to religious conversion
 - within this group, a cult of weirdos, misfits and maladaptives all around the world form a cult based on 'solving the plot'
 - that is - they believe there's some dark conspiracy underfoot which can only be resolved by 'following the clues'
 
 Baby, you got yourself a cult going! Basically not too far away from the Q-anon or the Querdenker movements.
-What happens when certain obsessives 'binge-read' the VR-novella - are they being reprogrammed? If so, why?
+What happens when certain obsessives bine-play the VR game: are they being reprogrammed? If so, why?
 Is the content from the VR experience generated by inscrutible algorithms? Or could it be the work of a prophet,
 some strange and holy window into another world somewhere beyond this one?
 I feel like there's interesting possibilities to explore. It's a nice thought experiment:
@@ -77,34 +80,6 @@ what would the world be like if there were software to effortlessly program some
 Basically, the question is:
 How to program a person?
 
-Anyway, that's the essential backstory, hope it's not too far-fetched (besides the vaccine!)
-Let me know what you think in the comments below, and don't forget to like rate and subscribe!
-Cheers doggs!
+Them's the essentials - hope it's not too far-fetched besides the vaccine
 
-#### Cut to the (possible) start of the story (or an option at least) - here we go...
-
-
-
-
-
-
-
-
-```
-
-  GUNPOWDER  -  (*) (*) (*) (*) (*) over 26 million downloads
-
-  People who consumed this virtual-reality product also consumed:
-    * The 120 Days of Sodom by Marquis de Sade 
-    * American Psycho by Bret Easton Ellis
-    * 12 Rules for Life: An Antidote To Chaos by Jordan B Peterson
-
-...
-
-```
-
-
-
-
-
-
+**LIKE! COMMENT! SUBSCRIBE!**
