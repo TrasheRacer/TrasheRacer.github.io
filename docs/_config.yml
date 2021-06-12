@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: hyperactivist
+title: POSTPERSON
 email: trashe_racer@e.email
 description: >- # this means to ignore newlines until "baseurl:"
-  reflecting the end of a civilization
+  The only thing left to decide is the grip on the revolver handle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: TrasheRacer
