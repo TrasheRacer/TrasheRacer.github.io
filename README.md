@@ -1,12 +1,12 @@
 # Blog
 
-Values undefended aren't values at all.
+Reflections on the end of a civilization.
 
 ## TODO
 
 - Create metrics
 - Publicity?
-- Add comment function
+- Comment function
 
 ## Welcome to GitHub Pages
 

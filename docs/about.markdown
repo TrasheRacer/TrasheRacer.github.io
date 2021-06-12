@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-> making money from half-a-tab banter since 2006
+> making money out of half-a-tab party banter since 2006
 
-
-**THIS CONTENT IS A WORK OF FICTION**
+**THIS CONTENT IS A WORK OF SPECULATIVE FICTION**
