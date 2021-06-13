@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Paleo Software Engineering"
-date:   2021-05-16 22:34:40 +0200
+title: "Paleo Software Engineering, Part 1"
+date: 2021-05-16 22:34:40 +0200
 ---
 
 Imagine a software patch which decarbonizes your software application. What does this patch look like?
@@ -10,10 +10,11 @@ Imagine a software patch which decarbonizes your software application. What does
 
 Lets say that the EU enacts legislation to move the Euro onto something I'll call the 'sequestered carbon standard'.
 Via legislation mirroring the abandonment of the gold standard by central banks in the 1970s, European nations agree that each Euro has a **theoretical** exchange value equal to:
-* X tonnes underground coal
-* Y kilogrammes captured carbon
-* Z square kilometers wild forest
-* ...
+
+- X tonnes underground coal
+- Y kilogrammes captured carbon
+- Z square kilometers wild forest
+- ...
 
 Overnight our mentality shifts: burning barrels of oil to power a grid becomes seen as the absolute luxury it really is.
 Supplemented by nuclear fission, renewable energy become the dominant power source.
