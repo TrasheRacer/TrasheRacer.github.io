@@ -51,4 +51,4 @@ plugins:
 #   - vendor/ruby/
 
 minima:
-  skin: solarized
+  skin: solarized-dark
