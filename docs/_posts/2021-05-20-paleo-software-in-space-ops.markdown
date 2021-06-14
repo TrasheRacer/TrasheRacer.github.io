@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paleo Software in Space-Ops"
+title: "De-carbonizing software in space operations"
 date: 2021-05-20 16:13:34 +0200
 ---
 
