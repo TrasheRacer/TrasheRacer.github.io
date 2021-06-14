@@ -4,7 +4,7 @@ title: "De-carbonizing software in space operations"
 date: 2021-05-20 16:13:34 +0200
 ---
 
-# Adapting to the Climate Reality at in Space Operations
+# Space Operations: adapting to the Climate Crisis
 
 ## Sources
 
