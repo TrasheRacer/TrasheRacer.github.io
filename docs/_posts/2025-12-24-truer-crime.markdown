@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Truer Crime"
-date: 2025-12-24 21:13:02 +0200
+date: 2025-12-24 21:13:02 +0100
 ---
 
 I finally load the audio file into the data pipeline I've so laboriously coded, the cobbled-together knowledge of internet comments.  
@@ -58,7 +58,7 @@ In the garage - an enourmous freezer, seemingly a new purchase by the stickers o
 
 // BRB
 
-
+__Gonna come back to this at some point I swear__
 
 
 
