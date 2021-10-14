@@ -4,7 +4,9 @@ title: "On Violence"
 date: 2026-10-06
 ---
 
-_[Comments by the author, to the author look like this.]_
+_[I guess this thing's gonna be WIP for a couple months?]_
+
+_[TODO : structural changes : [dummy-json format for (volatile content) comments, single-lines for paragraphs (like Jeff Rosenstock!), take the dog for a walk (strikethrough to indicate a completed task)] ]_
 
 ----
 
