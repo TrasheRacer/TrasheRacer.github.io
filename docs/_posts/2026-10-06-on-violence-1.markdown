@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Violence: 1"
+title: "On Violence"
 date: 2026-10-06
 ---
 
