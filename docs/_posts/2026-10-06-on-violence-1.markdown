@@ -4,10 +4,19 @@ title: "On Violence: 1"
 date: 2026-10-06
 ---
 
-This is a reminder to myself to explore and expand my thinking around violence, specifically political violence.  
+_[Comments by the author, to the author look like this.]_
+
+----
+
+**This is a reminder to myself to explore and expand my thinking around violence, specifically political violence.**  
+
+_[I guess this thing's gonna be WIP for a couple months?]_
+
 Inspired my Clausewitz, I'll try to understand what what violence is and how it should be used to achieve political aims.  
 I'll look at examples both past and present,
 in order to create a program of political violence (implied, theatened and/or actual) for today's concerned citizen.  
+
+_[Need to work out where the fuck I'm going with this next...]_
 
 ### Who is Clausewhatsit?
 
