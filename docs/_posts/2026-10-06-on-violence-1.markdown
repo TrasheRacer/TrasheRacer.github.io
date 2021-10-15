@@ -8,9 +8,14 @@ _[Notes to self like this.]_
 
 _[Let's work out how to tease this badboy out]_
 
+
 ----
 
-**This POST is a reminder to myself to explore and expand my thinking around violence, specifically political violence through the lens of the Climate Crisis, the Covid Pandemic and Everything that Followed, a macro-shot attempt to keep the 4-th Dimension (Time) in mind when condiering the moral calculus of our actions - where the 'our' here is the (constructed) framework of a rational, moral, empiricist agent, seemingly inconsequential within the unfathomabley complex world we inhabit, fearful for the health and wellbeing of the nation they inhavit and the people and animals and places and lives they cherish.**                                   
+
+**This POST is a reminder to myself to explore and expand my thinking around violence, specifically political violence through the lens of the Climate Crisis, the Covid Pandemic and Everything that Followed, a macro-shot attempt to keep the 4-th Dimension (Time) in mind when condiering the moral calculus of our actions - where the 'our' here is the (constructed) framework of a rational, moral, empiricist agent, seemingly inconsequential within the unfathomabley complex world we inhabit, fearful for the health and wellbeing of the nation they inhavit and the people and animals and places and lives they cherish.**     
+
+----
+
 
 _[I guess this thing's gonna be WIP for a couple months?]_
 
