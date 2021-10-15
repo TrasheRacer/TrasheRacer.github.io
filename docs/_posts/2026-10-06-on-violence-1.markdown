@@ -6,7 +6,7 @@ date: 2026-10-06
 
 _[Comments to self like this.]_
 
-_[Crude technique, like the 'structural metal beams bolted to the outer of those horrible 21=st century corporate buildings, but effective at directing the eyye.]_
+_[Crude technique, like the pseudo-structural beams they bolt onto the outer of those horrible 21=st century glass-and-metal corporate buildings - effective at grabbing and directing attention.]_
 
 **THIS POST**
 
