@@ -16,7 +16,7 @@ _[ I guess this thing's gonna be WIP for a couple months? ]_
 
 Inspired my Clausewitz, I'll try to understand what what violence is and how it should be used to achieve political aims. I'll look at examples both past and present, in order to create a program of political violence (implied, theatened and/or actual) for today's concerned citizen.  
 
-_[ **TODO:** Keep going here to introduce this conception that you're going to try and tease out into (one day) a couple-hundred pages, to be sold on toilet-paper printed books for sale (at bulk rates) to preppers and survivalists, or even just the guy who wants to stockpile both the quilted commodities of civilisation as well as quality literature. ] _
+_[ TODO: Keep going here to introduce this conception that you're going to try and tease out into (one day) a couple-hundred pages, to be sold on toilet-paper printed books for sale (at bulk rates) to the penny-pinching prepper, the savvy survivalist, and even just the guy who wants to stockpile each of the major (quilted) commodities of civilisation, the bum-wiping and the mind-expanding, combined into one convenient product for the next Cholera Lockdown Or Rolling Blackout!]_
 
 ### Who is Clausewhatsit?
 
@@ -34,10 +34,7 @@ _[A monopoly on legit use of violence.]_
 
 #### Why do I care about any of this?
 
-Economics likes to imagine _Homo Economicus,_ that perfectly rational abstraction of an economic agent.  
-An equally unrealistic but more helpful abstraction is to try and conceive of a morally perfect human being.  
-I have no clue what the Latin is for a human with a brain hard-wired for utilitarian maximisation, 
-but that's the idea here, so just as a thought experiment let's question this concept.  
+Economics likes to imagine _Homo Economicus,_ that perfectly rational abstraction of an economic agent. An equally unrealistic but more helpful abstraction is to try and conceive of a morally perfect human being. I have no clue what the Latin is for a human with a brain hard-wired for utilitarian maximisation, but that's the idea here, so just as a thought experiment let's question this concept.  
 
 How would such a moral perfectionist relate to political violence?
 
@@ -45,24 +42,13 @@ Normal humans (that is, excluding Nazis) fall into 1 of the 2 following categori
 * violence is _never_ the answer, i.e. absolute pacificsm, often justified as a strategic choice
 * violence can be justified depending upon the circumstances, or as Machiavelli put it 'the ends justify the means'
 
-Environmental groups like XR fall into the first category, eschewing all forms of personal violence as doctrine.  
-They draw inspiration from what must be identified as a selective reading of the history of (nonviolent) activism, 
-ignoring for example that the successes of the peaceful US civil rights movements were secured by armed black organisations,
-and minimalising when considering Apartheid the impact of armed resistance against the regime.
+Environmental groups like XR fall into the first category, eschewing all forms of personal violence as doctrine. They draw inspiration from what must be identified as a selective reading of the history of (nonviolent) activism, ignoring for example that the successes of the peaceful US civil rights movements were secured by armed black organisations, and minimalising when considering Apartheid the impact of armed resistance against the regime.
 
-Everybody else comes under the second category: 
-individuals on the left/right/centre of the political spectrum, 
-nations and corporations are all unified in our appreciation of the occassional uses of violence.  
+Everybody else comes under the second category: individuals on the left/right/centre of the political spectrum, nations and corporations are all unified in our appreciation of the occassional uses of violence.  
 
-If we allow that violence _might_ sometimes be justified, we then need to ask: is it ever obligatory?  
-This is of course the clasic trolley problem, when killing 1 person causes you to save 5 others.  
-But in a globalised fossil-fuel based economy, how is our imaginary utilitarian to make it even through everyday life,
-even when not molested by philophers with antique vehicles?  
-When watching a year's worth of netflix burns x grams of carbon and the world becomes that _tiny_ bit warmer and worse?  
-when buying a T-shirt sourced from a grimmer part of the world makes you complicit in a relentless genocide?  
+If we allow that violence _might_ sometimes be justified, we then need to ask: is it ever obligatory? This is of course the clasic trolley problem, when killing 1 person causes you to save 5 others. But in a globalised fossil-fuel based economy, how is our imaginary utilitarian to make it even through everyday life, even when not molested by philophers with antique vehicles? When watching a year's worth of netflix burns x grams of carbon and the world becomes that _tiny_ bit warmer and worse? When buying a T-shirt sourced from a grimmer part of the world makes you complicit in a relentless genocide?  
 
-If inaction (defined as apolitical, basic subsistence in an industrialised society) can lead to such undeniable harm,
-then our utilitarian is left with a hard calculus problem.  
+If inaction (defined as apolitical, basic subsistence in an industrialised society) can lead to such undeniable harm, then our utilitarian is left with a hard calculus problem.  
 Does the unstoppable structural violence of the moment outweigh the expected violence of the revolution,
 clearly neccessary to destroy a devastating status quo?  
 Perhaps that's not a question we can answer, but we still have to make a decision on how to act.  
