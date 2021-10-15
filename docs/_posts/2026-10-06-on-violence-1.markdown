@@ -4,7 +4,7 @@ title: "On Violence"
 date: 2026-10-06
 ---
 
-_[I guess this thing's gonna be WIP for a couple months?]_
+_[Notes to self like this.]_
 
 _[Let's work out how to tease this badboy out]_
 
@@ -18,7 +18,7 @@ Inspired my Clausewitz, I'll try to understand what what violence is and how it 
 I'll look at examples both past and present,
 in order to create a program of political violence (implied, theatened and/or actual) for today's concerned citizen.  
 
-_[Need to work out where the fuck I'm going with this next...]_
+_[**TODO:** Need to work out where the fuck I'm going with this next...]_
 
 ### Who is Clausewhatsit?
 
