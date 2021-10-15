@@ -4,7 +4,7 @@ title: "On Violence"
 date: 2026-10-06
 ---
 
-_[Notes to self like this - nobody fucking reads this shit anyway, might as well stop deleting them and cleaing up my commits.]_
+_[Notes to self like this.]_
 
 **This POST**
 
