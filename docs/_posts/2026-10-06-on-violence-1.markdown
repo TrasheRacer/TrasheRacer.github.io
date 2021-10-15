@@ -9,13 +9,12 @@ _[Notes to self like this.]_
 _[Let's work out how to tease this badboy out]_
 
 
+**This POST**
+
 ----
 
 
 **This POST is a reminder to myself to explore and expand my thinking around violence, specifically political violence through the lens of the Climate Crisis, the Covid Pandemic and Everything that Followed, a macro-shot attempt to keep the 4-th Dimension (Time) in mind when condiering the moral calculus of our actions - where the 'our' here is the (constructed) framework of a rational, moral, empiricist agent, seemingly inconsequential within the unfathomabley complex world we inhabit, fearful for the health and wellbeing of the nation they inhavit and the people and animals and places and lives they cherish.**     
-
-----
-
 
 _[I guess this thing's gonna be WIP for a couple months?]_
 
@@ -23,7 +22,7 @@ Inspired my Clausewitz, I'll try to understand what what violence is and how it 
 I'll look at examples both past and present,
 in order to create a program of political violence (implied, theatened and/or actual) for today's concerned citizen.  
 
-_[**TODO:** Need to work out where the fuck I'm going with this next...]_
+_[**TODO:** Keep going here I guess?]_
 
 ### Who is Clausewhatsit?
 
