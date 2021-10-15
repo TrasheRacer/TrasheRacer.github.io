@@ -18,7 +18,7 @@ _[I guess this thing's gonna be WIP for a couple months?]_
 
 Inspired my Clausewitz, I'll try to understand what what violence is and how it should be used to achieve political aims. I'll look at examples both past and present, in order to create a program of political violence (implied, theatened and/or actual) for today's concerned citizen.  
 
-_[**TODO:** Keep going here to introduce this conception that you're going to try and tease out into (one day) a couple-hundred pages, to be sold on toilet-paper printed books for sale (at bulk rates) to the penny-pinching prepper, the savvy survivalist, and even just the guy who wants to stockpile each of the major (quilted) commodities of civilisation, the bum-wiping and the mind-expanding, combined into one convenient product for the next Cholera Lockdown Or Rolling Blackout!]_
+_[**TODO:** Keep going here to introduce this conception that you're going to try and tease out into (one day) a couple-hundred pages, to be sold on toilet-paper printed books for sale (at bulk rates) to the penny-pinching prepper, the savvy survivalist, and even just the guy who wants to stockpile each of the major (quilted) commodities of civilisation, the bum-wiping and the mind-expanding, combined into one convenient product for the next cholera lockdown OR rolling blackout.]_
 
 ### Who is Clausewhatsit?
 
