@@ -58,8 +58,18 @@ We suppose only the following assumptions about our individual and their politic
 
 ### 0.21 Violence
 
-For our purposes we consider political violence to range from damage to innanimate objects (i.e. property damage, sabotage, etc), 
-up to methods commonly used in international warfare and terrorism - in particular, the directed cyberattack and income-generating cybercrime.
+For our purposes we consider political violence to range from damage to innanimate objects, 
+up to methods common to international warfare and terrorism - in particular, directed cyberattack and income-generating cybercrime.
+
+We can outline the political violence under discussion on a rough scale of increasing severity:
+* non-violent civil disobedience: protest, democratic action, etc.
+* property damage: riot, sabotage, cyberattacks against (only) property
+* ...
+* armed conflict up to and including conventional warfare
+* existential destruction, whether by some aspect of the climate crisis or the latest hypersonic glide vehicle launched nuclear warhead.
+
+Of these kinds of violence, only the very last is to be avoided **at all costs** and especially when considering 'the long run' - say, up until 2050.
+However, the lesser forms of violence (while to be avoided for their own sake) could be argued as justified and even required **for the avoidence** of the latter.
 
 ### 0.22 Software
 
@@ -84,6 +94,17 @@ This is where oppourtunity, if it lies anywhere, must be.
 
 Then again, if all you know how to make is a hammer...
 
+### 0.23 Strategy
 
+#### TODO:
+
+**Outeline strategic thinking:** uncertainty, chance and optionallity
+**Discuss important counterfactuals:** what is the likelyhood of *not* having
+ * another lockdown in the next 10 years? 
+ * another refugee 'crisis'?
+ * another economic crash?
+ * another invasion?
+ * another terrorist attack?
+**Preparation is needed:** how to be positioned & ready when the masses are about to scream 'not one fucking step further'
 
 
