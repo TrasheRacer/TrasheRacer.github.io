@@ -31,7 +31,7 @@ Your only solace lies in the sheer unpredictability of the future, grim comfort 
 Nothing changes like time, and in there is enough freedom to breathe.
 You think and listen and talk and wonder if maybe, just maybe, an oppourtunity might arise.
 A black swan at the break of dawn, some moment where by chance or by fate things can be **changed** for the better, for the long run.
-An instant that may never come, but if it ever does - you leave your door open and your front door on.
+An instant that may never come, but if it ever does - you leave your door open and your hall light on.
 
 This is for you, and for me.
 
