@@ -7,9 +7,7 @@ date: 2026-11-25
 ## 0.0 Background
 
 If you're not familiar with the Blob,
-check this old YouTube video.
-Aging like a fine wine:
-https://youtu.be/SmpkdPm9eeQ?t=1494
+check this old YouTube video - aging [like a fine wine](https://youtu.be/SmpkdPm9eeQ?t=1494)
 
 ## 0.1 Motivation
 
