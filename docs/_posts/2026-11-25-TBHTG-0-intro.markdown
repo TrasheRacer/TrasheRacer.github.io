@@ -99,12 +99,14 @@ Then again, if all you know how to make is a hammer...
 #### TODO:
 
 **Outeline strategic thinking:** uncertainty, chance and optionallity
+
 **Discuss important counterfactuals:** what is the likelyhood of *not* having
  * another lockdown in the next 10 years? 
  * another refugee 'crisis'?
  * another economic crash?
  * another invasion?
  * another terrorist attack?
-**Preparation is needed:** how to be positioned & ready when the masses are about to scream 'not one fucking step further'
+ 
+**Preparation is needed:** how to be positioned & ready before the masses next scream 'not one fucking step further'
 
 
