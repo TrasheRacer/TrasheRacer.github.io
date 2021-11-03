@@ -117,4 +117,39 @@ Then again, if all you know how to make is a hammer...
 
 **Lessons from history:** what useful heuristics can we come up with by analysing past wars, conflicts, insurrections, riots and revolutions?
 
+#### Rough draft
+
+1. Turbulent periods of the future and it's man-made catastrophe can be generalised by the useful heuristic: things will always get worse.
+   The worst stock market crash, the worst genocide, the worst war, the worst pandemic or the worst haircut;
+   n-1 times throughought the history of each has that record been broken, and on a long enough timescale, it always will.
+   Note that even when this heuristic fails you, you're likely to be happy anyway as something must have turned out unexpectedly positive.
+2. Increasing human life expectancy, population & cancer-like rampant growth under capitalism make us ever more likely to witness these occurences.
+   It would be good to try and and avoid these types of things as far as possible;
+   and where that inevitably (sometimes) fails, deal with the consequences effectively, 
+   in terms of both short- & long-term recovery for both the self and the collective.
+4. (Groups of) human beings are likely to handle future crisis in ways that will share certain similarities with how people have done this in the past.
+   As more and more 'spooky' reminiscences of the 1920s are arising to haunt our current decade plus a few genuinely terrifying novelties,
+   it's easy to become alarmed at the unhappy prospect of the 2030s (and 2040s, and 2050s if any of us survive another World War) following suit.
+   Hey mate it's OK - panic. Panic as long as you need, take a couple of years and just hit the gym, come back and we'll talk then. Cool? Cool.
+5. Fortunately, it's very unlikely that there is absolutely nothing usable we can learn from (the failures of) past revolutions.
+   Although there exist a multitude of differences between the context of political violence going back even just 100 years, namely: 
+   (digital) technology, labour organisation (industry vs service-based economy), and nuclear weapondry;
+   many other things remain resolutely the same, the first one being the human spirit, our basic neurology unchanged for 10s of 1000s of years.
+   We share the same basic hierarchy of needs, the same drives and desires, and can sometimes be usefully described by our 'story archtype'
+   just like our 20th century ancestors.
+6. Additionally, as organissations often live far longer than people and capitalism is much older than the atom bomb,
+   there are likely to be even more similarities between then and now in how states, corporations and other political bodies
+   have reacted to systemic catastrophes, including what when wrong and what could have been done better.
+7. The best way to investigate this is through the war-gaming of political action in a hypothetical yet increasingly likely future crisis.
+   To take hypotheses and attempt to evaluate them, in order to build a map of how individuals and collectives may be able to effectively
+   take advantage of (impending) catastrophe to their political advantage, when these goals align with those described above.
+   At least part of the coming work will be an attempt to learn from the way that political bodies responded to conflict/violence/stressors past,
+   disecting why & how descisions were made, their effectiveness, and what broad-strokes lessons can be found to direct future action;
+   lessons that enable organisations to respond to (and take advantage of) shocks that destroy _other_ parts of the system.
+   Ruthlessness & cunning required.
+
+
+
+
+
 
