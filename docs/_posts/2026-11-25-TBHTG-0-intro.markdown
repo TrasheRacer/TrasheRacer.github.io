@@ -102,7 +102,7 @@ Then again, if all you know how to make is a hammer...
 
 #### TODO:
 
-**Outeline strategic thinking:** uncertainty, chance and optionallity
+**Outeline strategic thinking:** uncertainty, chance and optionality
 
 **Discuss important counterfactuals:** what is the likelyhood of *not* having
  * another lockdown in the next 10/20/30 years? 
@@ -111,6 +111,8 @@ Then again, if all you know how to make is a hammer...
  * another invasion?
  * another terrorist attack?
  
-**Preparation is needed:** how to be positioned & ready before the masses next scream 'not one fucking step further'
+**Preparation:** how to be waiting & ready before the masses next scream 'not one fucking step further'
+
+**Wargame the coming crisis:** use VR to train for effective political action upon the next social upheaval, whatever the nature of that may be.
 
 
