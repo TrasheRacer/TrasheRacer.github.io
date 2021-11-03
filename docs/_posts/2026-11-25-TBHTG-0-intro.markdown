@@ -115,4 +115,6 @@ Then again, if all you know how to make is a hammer...
 
 **Wargame the coming crisis:** use VR to train for effective political action upon the next social upheaval, whatever the nature of that may be.
 
+**Lessons from history:** what useful heuristics can we come up with by analysing past wars, conflicts, insurrections, riots and revolutions?
+
 
