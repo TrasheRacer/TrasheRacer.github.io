@@ -9,7 +9,19 @@ date: 2026-11-25
 If you're not familiar with the Blob,
 check this old YouTube video - aging [like a fine wine](https://youtu.be/SmpkdPm9eeQ?t=1494)
 
-## 0.1 Motivation
+## 0.1 Quickstart
+
+The surest way to defeat the Blob (or the deep state, or the 1%, or who- or what-ever) is to take away from it the three things that it loves the most:
+ - weapons of mass destruction
+ - fossil fuels
+ - [fiat money](https://en.wikipedia.org/wiki/Fiat_money) i.e. the thing that broke the global financial system
+
+Happily, whatever part of the spectrum you hang might out at on given day, there's a strong chance that you feel like
+1 or possibly even 2 or 3 of these goals might be worth doing.
+
+That's the thing about the Blob. It fucking sucks.
+
+## 0.2 Motivation
 
 So you're scared shitless of the future. 
 
@@ -33,7 +45,7 @@ An instant that may never come, but if it ever does - you leave your door open a
 
 This is for you, and for me.
 
-## 0.2 Scope
+## 0.3 Scope
 
 This guide is an attempt to consider the options available to the individual attempting to change policy, and their effectiveness.
 Without the benefit of hindsight it is of course impossibly difficult to determine cause and effect of action.
@@ -49,14 +61,14 @@ we consider as a starting point the obvious categories:
 * altruism [of the 'effective' variety](https://www.effectivealtruism.org/) or some other means to convert capital into social change
 * change the system from with (the system changes you)
 
-### 0.20 Political goals
+### 0.30 Political goals
 
 We suppose only the following assumptions about our individual and their political goals:
 1. **Will to live:** the continued proliferation of arms by great powers *and* the escalating climate crisis are equally grave existential threats to humanity, and it's pretty concerning.
 2. **Anti-Blob:** it's neccessary to unseat the saber-rattling child-killing oil-hungry thugs deep within our governments before they destroy us all.
 3. **Skeptical pacifism:** non-violence today must be weighted against the risk of entering 2030 with another degree of warming and step closer to nuclear armegaedon - and for 2040, 2050 and so on.
 
-### 0.21 Violence
+### 0.31 Violence
 
 For our purposes we consider political violence to range from damage to innanimate objects, 
 up to methods common to international warfare and terrorism - in particular, directed cyberattack and income-generating cybercrime.
@@ -75,7 +87,7 @@ say, up until 2050 (only thirty years!).
 However, the lesser forms of violence (while to be avoided for their *own* sake) can be argued as justified and even required,
 when necessary **for the avoidence** of the greatest.
 
-### 0.22 Software
+### 0.32 Software
 
 If Marx is said to have dissected the world into the relationships between the working class and capital (and coal),
 this author sees the greatest revolutionary potential in the softare binding today's world together.
@@ -98,7 +110,7 @@ This is where oppourtunity, if it lies anywhere, must be.
 
 Then again, if all you know how to make is a hammer...
 
-### 0.23 Strategy
+### 0.33 Strategy
 
 #### TODO:
 
@@ -117,7 +129,7 @@ Then again, if all you know how to make is a hammer...
 
 **Lessons from history:** what useful heuristics can we come up with by analysing past wars, conflicts, insurrections, riots and revolutions?
 
-#### Rough draft
+## 0.4 Outline
 
 1. Turbulent periods of the future and it's man-made catastrophe can be generalised by the useful heuristic: things will always get worse.
    The worst stock market crash, the worst genocide, the worst war, the worst pandemic or the worst haircut;
