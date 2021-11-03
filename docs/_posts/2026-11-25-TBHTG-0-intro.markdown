@@ -64,13 +64,16 @@ up to methods common to international warfare and terrorism - in particular, dir
 We can outline the political violence under discussion on a rough scale of increasing severity:
 * surveillence (CCTV, tracking mobile devices, other forms of (electronic) data collection: among all primates, a hard stare is nothing if not a threat.  
 * non-violent civil disobedience: protest, democratic action, etc.
-* property damage: riot, sabotage, cyberattacks against (only) property
+* property damage: riot, sabotage, cyberattacks against (only) property.
 * ...
-* armed conflict up to and including conventional warfare
+* collective action: (armed) insurrection, mutiny, industrial action.
+* armed conflict: terrorism & conventional/grey/civil warfare
 * existential destruction, whether by some aspect of the climate crisis or the latest hypersonic glide vehicle launched nuclear warhead.
 
-Of these kinds of violence, only the very last is to be avoided **at all costs** and especially when considering 'the long run' - say, up until 2050.
-However, the lesser forms of violence (while to be avoided for their own sake) could be argued as justified and even required **for the avoidence** of the latter.
+Of these kinds of violence, only the very last is to be avoided **at all costs**  - and especially when considering 'the long run',
+say, up until 2050 (only thirty years!).
+However, the lesser forms of violence (while to be avoided for their *own* sake) can be argued as justified and even required,
+when necessary **for the avoidence** of the greatest.
 
 ### 0.22 Software
 
@@ -102,7 +105,7 @@ Then again, if all you know how to make is a hammer...
 **Outeline strategic thinking:** uncertainty, chance and optionallity
 
 **Discuss important counterfactuals:** what is the likelyhood of *not* having
- * another lockdown in the next 10 years? 
+ * another lockdown in the next 10/20/30 years? 
  * another refugee 'crisis'?
  * another economic crash?
  * another invasion?
