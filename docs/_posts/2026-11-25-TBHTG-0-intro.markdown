@@ -62,6 +62,7 @@ For our purposes we consider political violence to range from damage to innanima
 up to methods common to international warfare and terrorism - in particular, directed cyberattack and income-generating cybercrime.
 
 We can outline the political violence under discussion on a rough scale of increasing severity:
+* surveillence (CCTV, tracking mobile devices, other forms of (electronic) data collection: among all primates, a hard stare is nothing if not a threat.  
 * non-violent civil disobedience: protest, democratic action, etc.
 * property damage: riot, sabotage, cyberattacks against (only) property
 * ...
