@@ -2,6 +2,8 @@
 
 Reflections on the end of a civilization.
 
+**Inspo:** Anne Frank, Hannah Arendt, Carl von Clausewitz
+
 ## TODO
 
 - Create metrics
