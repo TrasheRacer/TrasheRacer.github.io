@@ -2,7 +2,7 @@
 
 Reflections on the end of a civilization.
 
-**Inspo:** Anne Frank, Hannah Arendt, Carl von Clausewitz
+**Inspo:** Anne Frank, Hannah Arendt, Carl von Clausewitz, @Dan_Arrows
 
 ## TODO
 
