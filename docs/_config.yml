@@ -20,8 +20,9 @@
 
 title: MANIFESTO.md
 email: trashe_racer+manifesto@e.email
-description: >- # this means to ignore newlines until "baseurl:"
-  The only thing left to decide is the grip on the revolver handle
+description: |
+  THE ONLY THING LEFT TO DECIDE
+  IS THE GRIP ON THE REVOLVER HANDLE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: TrasheRacer
