@@ -11,7 +11,8 @@ Consider the next plague.
 We don't have to go back long to remember what the _last_ one was like, 
 and I'm sure we've all had enough of the rolling lockdowns & psycho-social deprivation.
 But - what has happened before **will** happen again.
-And last time, we got off lightly.
+
+And next time - we may not get off so lightly.
 
 We have the benefit of hindsight.
 How do we leverage a pandemic into exposing & destroying The Blob?
