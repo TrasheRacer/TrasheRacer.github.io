@@ -4,6 +4,10 @@ title: "The Blob Hunting & Trapping Guide, Part 0: Introduction"
 date: 2026-11-25
 ---
 
+## Work in progress
+
+**Contents??**
+
 ## 0.0 Background
 
 If you're not familiar with the Blob,
