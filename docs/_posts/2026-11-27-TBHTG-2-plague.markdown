@@ -4,6 +4,8 @@ title: "The Blob Hunting & Trapping Guide, Part 2: The Plague"
 date: 2026-11-27
 ---
 
+## Work in progress
+
 Consider the next plague.
 
 We don't have to go back long to remember what the _last_ one was like, 
