@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "The Blob Hunting & Trapping Guide, Part 0: The Crash"
+title: "The Blob Hunting & Trapping Guide, Part 1: The Crash"
 date: 2026-11-26
 ---
+
+## Work in progress
 
 The next **worst** financial crash is, as always, _unimaginably_ more terrible than the one that came before.
 
