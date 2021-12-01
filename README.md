@@ -2,11 +2,12 @@
 
 reflections on the end of a civilization?
 
-**Inspo:**         Anne Frank, Hannah Arendt, Carl von Clausewitz, @Dan_Arrows, Nassim N Taleb
+**Anne Frank, Hannah Arendt, Carl von Clausewitz, @Dan_Arrows, Nassim N Taleb**
 
 ## TODO
 
 - metrics?
+- other bullshit?
 
 ## Welcome to GitHub Pages
 
