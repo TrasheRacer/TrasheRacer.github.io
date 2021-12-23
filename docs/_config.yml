@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CONTENT WARNING
+title: MANIFESTO.md
 email: trashe_racer+manifesto@e.email
 description: SHIT PARTY CHAT SINCE 2006
 baseurl: "" # the subpath of your site, e.g. /blog
