@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-> Blurring the line between fiction, sedition, and shit comedown banter since 2006
+> THIS IS A WORK OF SPECULATIVE FICTION
 
 Twitter: `@trashe_racer`
